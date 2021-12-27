@@ -1,0 +1,12 @@
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.AssemblyReference.cache
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+N:\CS\C#\Tutorials\ASP.NET Web Api - kudvenkat\Part 04 - ASP.NET Web API and SQL Server\EmployeeServices\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb

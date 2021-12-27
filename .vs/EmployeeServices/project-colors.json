@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aa3ee345-0b5e-4a05-80a4-12bcd79b349a": {
+      "ProjectGuid": "aa3ee345-0b5e-4a05-80a4-12bcd79b349a",
+      "DisplayName": "EmployeeDataAccess",
+      "ColorIndex": 0
+    },
+    "46b08648-18bb-4e57-bb66-bcfd8d731a45": {
+      "ProjectGuid": "46b08648-18bb-4e57-bb66-bcfd8d731a45",
+      "DisplayName": "EmployeeDataAccess",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
