@@ -10,7 +10,12 @@
       "ProjectGuid": "46b08648-18bb-4e57-bb66-bcfd8d731a45",
       "DisplayName": "EmployeeDataAccess",
       "ColorIndex": 1
+    },
+    "9b6c9610-8cb4-4006-a41b-b78c5e581ae0": {
+      "ProjectGuid": "9b6c9610-8cb4-4006-a41b-b78c5e581ae0",
+      "DisplayName": "EmployeeServices",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
